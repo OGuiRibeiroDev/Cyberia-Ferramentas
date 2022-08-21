@@ -1,0 +1,68 @@
+.menu ul li a {
+    color: #00FF00;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 10px;
+    float:left;
+    background-color: black;
+    
+}
+.menu {
+    background-color: black;
+    color: #00FF00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50px;
+    
+}
+
+.menu ul li a:hover{
+background-color: lightgreen;
+color: darkgreen;
+}
+.menu ul {
+
+    background-color: black;
+    color: #00FF00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+    margin: auto;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.cyberia
+{
+color:#00FF00;
+margin: auto;
+padding: auto;
+width: 60%;
+}
+
+.img
+{
+    display: flex;
+    justify-content: center;
+}
+
+.fundo {
+
+    background-color: black;
+    height: 960px;
+}
+
+.botao button
+{
+    color: #00FF00;
+    font-size: 20px;
+    background-color: lightgreen;
+    border-color: darkgreen;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.botao button:hover 
+{
+    background-color: darkgreen;
+    color: darkgreen;
+    text-decoration-color: darkgreen;
+}
